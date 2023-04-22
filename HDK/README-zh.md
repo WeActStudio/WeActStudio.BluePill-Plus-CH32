@@ -14,7 +14,7 @@
 ## 如何进入ISP模式
 
 > 按下BOOT0和NRST，松开NRST，0.5S后松开BOOT0，即可进入串口下载，串口烧录软件见`Tools`文件夹。
-* CH32V103C8T6核心板支持USB isp下载
+* CH32V103C8T6/CH32V203C8T6核心板支持USB isp下载
 * CH32F103C8T6核心板不支持USB isp下载
 
 |文件名称|含义|

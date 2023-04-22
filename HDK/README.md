@@ -14,7 +14,7 @@
 ## How to Enter ISP
 > Press BOOT0 and NRST, release NRST, release BOOT0 after 0.5s, then enter serial port for download,serial port burning software see `Tools` folder.
 
-* CH32V103C8T6 core board supports USB isp download
+* CH32V103C8T6/CH32V203C8T6 core board supports USB isp download
 * CH32F103C8T6 core board does not support USB isp download
 
 |File Name|Explain|

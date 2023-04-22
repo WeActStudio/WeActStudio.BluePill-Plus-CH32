@@ -1,10 +1,13 @@
 * [中文版本](./README-zh.md)
-# WeActStudio.BluePill-Plus-GD32
+# WeActStudio.BluePill-Plus-CH32
 CH32F103C8T6
 > 72Mhz Max,20KB RAM,64KB ROM,Cortex-M3
 
 CH32V103C8T6
 > 72Mhz Max,20KB RAM,64KB ROM,RISC-V
+
+CH32V103C8T6
+> 144Mhz Max,20KB RAM,64KB ROM,RISC-V
 
 CH32 Official Website www.wch.cn(zh-CN) / www.wch-ic.com(en)
 
@@ -16,6 +19,9 @@ CH32 Official Website www.wch.cn(zh-CN) / www.wch-ic.com(en)
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
 * CH32V103C8T6 RISV-V
 + `72 MHz` maximum frequency,performance at 0 wait state memory access
++ `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
+* CH32V203C8T6 RISV-V
++ `144 MHz` maximum frequency,performance at 0 wait state memory access
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
 * `8 MHz` system crystal
 * `32.768 KHz` RTC crystal
