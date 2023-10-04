@@ -64,7 +64,7 @@ CH32 官方网站 www.wch.cn(zh-CN) / www.wch-ic.com(en)
 - WeAct Studio 官方链接
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActTC
+- github: github.com/WeActStudio
 - gitee: gitee.com/WeAct-TC
 - blog: www.weact-tc.cn
 ---------------------------------------*/

@@ -9,7 +9,7 @@ MounRiver Studio IDE 下载地址: http://www.mounriver.com/
 - WeAct Studio 官方链接
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActTC
+- github: github.com/WeActStudio
 - gitee: gitee.com/WeAct-TC
 - blog: www.weact-tc.cn
 ---------------------------------------*/
