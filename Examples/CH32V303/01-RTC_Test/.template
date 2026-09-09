@@ -1,0 +1,18 @@
+Mcu Type=CH32V30x
+Target Path=obj/01-RTC_Test.hex
+Address=0x08000000
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+
+Vendor=WCH
+Link=WCH-Link
+Toolchain=RISC-V
+Series=CH32V303
+RTOS=NoneOS
+MCU=CH32V303CBT6
+Description=Website: http://www.wch.cn/products/CH32V303.html?\nROM(byte): 128K, SRAM(byte): 32K, CHIP PINS: 48, GPIO PORTS: 37.\nWCH CH32V3 series of mainstream MCUs covers the needs of a large variety of applications in the industrial,medical and consumer markets. High performance with first-class peripherals and low-power,low-voltage operation is paired with a high level of integration at accessible prices with a simple architecture and easy-to-use tools.
+
+PeripheralVersion=2.9
+TempratureScope=CH32V303CBT6{-40℃~85℃}

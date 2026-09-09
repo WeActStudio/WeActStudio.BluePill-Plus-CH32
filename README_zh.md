@@ -6,23 +6,29 @@ CH32F103C8T6
 CH32V103C8T6
 > 72Mhz Max,20KB RAM,64KB ROM,RISC-V
 
-CH32V103C8T6
+CH32V203C8T6
 > 144Mhz Max,20KB RAM,64KB ROM,RISC-V
+
+CH32V303CBT6
+> 144Mhz Max,32KB RAM,128KB+480KB ROM,RISC-V
 
 CH32 官方网站 www.wch.cn(zh-CN) / www.wch-ic.com(en)
 
 ![display](Images/BluePillPlus.jpg)
 
 ## 特性
-* CH32F103C8T6 ARM Cortex-M3
+* **CH32F103C8T6** ARM Cortex-M3
 + `72 MHz` 最大运行频率
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
-* CH32V103C8T6 RISC-V
+* **CH32V103C8T6** RISC-V
 + `72 MHz` 最大运行频率
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
-* CH32V203C8T6 RISC-V
+* **CH32V203C8T6** RISC-V
 + `144 MHz` 最大运行频率
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
+* **CH32V303CBT6** RISC-V
++ `144 MHz` 最大运行频率
++ `128 Kbytes` of Flash memory, `32 Kbytes` of SRAM
 * `8 MHz` 系统晶振
 * `32.768 KHz` RTC晶振
 * 用户按键 KEY `PA0`
@@ -57,13 +63,14 @@ CH32 官方网站 www.wch.cn(zh-CN) / www.wch-ic.com(en)
 
 方法2
   1. CH32F103使用J-Link的J-Flash下载，见`Tools\CH32F103\JFlash_AddOn_For_CH32F103C8T6`目录
-  2. CH32F103，CH32V103使用WCHLink下载，工具见`Tools\CH32x103\`目录下的WCH_xxx_MCU_ProgramTool.zip
+  2. CH32F103，CH32V103，CH32V203，CH32V303使用WCHLink下载，工具见`Tools`目录下的`WCH_MCU_ProgramTool.zip`
 
 ```
 /*---------------------------------------
-- WeAct Studio 官方链接
-- taobao: weactstudio.taobao.com
-- aliexpress: weactstudio.aliexpress.com
+- WeAct Studio Official Link
+- taobao: WeActStudio.taobao.com
+- aliexpress 1: WeActStudio.aliexpress.com
+- aliexpress 2: WeActStudioOne.aliexpress.com
 - github: github.com/WeActStudio
 - gitee: gitee.com/WeAct-TC
 - blog: www.weact-tc.cn

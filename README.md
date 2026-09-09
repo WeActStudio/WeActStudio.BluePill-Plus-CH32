@@ -6,23 +6,29 @@ CH32F103C8T6
 CH32V103C8T6
 > 72Mhz Max,20KB RAM,64KB ROM,RISC-V
 
-CH32V103C8T6
+CH32V203C8T6
 > 144Mhz Max,20KB RAM,64KB ROM,RISC-V
+
+CH32V303CBT6
+> 144Mhz Max,32KB RAM,128KB+480KB ROM,RISC-V
 
 CH32 Official Website www.wch.cn(zh-CN) / www.wch-ic.com(en)
 
 ![display](Images/BluePillPlus.jpg)
 
 ## Features
-* CH32F103C8T6 ARM Cortex-M3
+* **CH32F103C8T6** ARM Cortex-M3
 + `72 MHz` maximum frequency,performance at 0 wait state memory access
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
-* CH32V103C8T6 RISV-V
+* **CH32V103C8T6** RISV-V
 + `72 MHz` maximum frequency,performance at 0 wait state memory access
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
-* CH32V203C8T6 RISV-V
+* **CH32V203C8T6** RISV-V
 + `144 MHz` maximum frequency,performance at 0 wait state memory access
 + `64 Kbytes` of Flash memory, `20 Kbytes` of SRAM
+* **CH32V303CBT6** RISV-V
++ `144 MHz` maximum frequency,performance at 0 wait state memory access
++ `128 Kbytes` of Flash memory, `32 Kbytes` of SRAM
 * `8 MHz` system crystal
 * `32.768 KHz` RTC crystal
 * User KEY `PA0`
@@ -56,13 +62,14 @@ Download the CH32V103 using a USB port. Download the CH32F103 using a serial por
 
 Method 2
 1. For the CH32F103, see the `Tools\CH32F103\JFlash_AddOn_For_CH32F103C8T6` directory
-2. Download CH32F103 and CH32V103 using WCHLink. See wch_xxx_mcu_programtool.zip in the `Tools\CH32x103\` directory
+2. Download CH32F103,CH32V103,CH32V203,CH32V303 using WCHLink. See `WCH_MCU_ProgramTool.zip` in the `Tools` directory
 
 ```
 /*---------------------------------------
 - WeAct Studio Official Link
-- taobao: weactstudio.taobao.com
-- aliexpress: weactstudio.aliexpress.com
+- taobao: WeActStudio.taobao.com
+- aliexpress 1: WeActStudio.aliexpress.com
+- aliexpress 2: WeActStudioOne.aliexpress.com
 - github: github.com/WeActStudio
 - gitee: gitee.com/WeAct-TC
 - blog: www.weact-tc.cn
