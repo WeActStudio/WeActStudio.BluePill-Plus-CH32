@@ -353,7 +353,6 @@ int main(void)
 				printf("year/month/day/week/hour/min/sec:\r\n");
 				printf("%d-%d-%d  %d  %d:%d:%d\r\n", calendar.w_year, calendar.w_month, calendar.w_date,
 					calendar.week, calendar.hour, calendar.min, calendar.sec);
-				board_led_toggle();
 			}
 		}
 		else
