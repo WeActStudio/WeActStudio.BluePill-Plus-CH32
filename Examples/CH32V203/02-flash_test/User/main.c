@@ -3,8 +3,8 @@
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
 - github: github.com/WeActStudio
-- gitee: gitee.com/WeAct-TC
-- blog: www.weact-tc.cn
+- gitee: gitee.com/WeActStudio
+- blog: blog.weactstudio.com
 ---------------------------------------*/
 
 #include "debug.h"
@@ -32,7 +32,7 @@ int main(void)
     printf("\r\nWeAct Studio Core Board\r\n");
     printf("weactstudio.taobao.com\r\n");
     printf("weactstudio.aliexpress.com\r\n");
-    printf("wwww.weact-tc.cn\r\n\r\n");
+    printf("blog.weactstudio.com\r\n\r\n");
     printf("SystemClk:%d\r\n", SystemCoreClock);
     printf("Flash Test\r\n");
 

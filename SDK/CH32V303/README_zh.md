@@ -11,7 +11,7 @@ MounRiver Studio IDE 下载地址: http://www.mounriver.com/
 - aliexpress 1: WeActStudio.aliexpress.com
 - aliexpress 2: WeActStudioOne.aliexpress.com
 - github: github.com/WeActStudio
-- gitee: gitee.com/WeAct-TC
-- blog: www.weact-tc.cn
+- gitee: gitee.com/WeActStudio
+- blog: blog.weactstudio.com
 ---------------------------------------*/
 ```
